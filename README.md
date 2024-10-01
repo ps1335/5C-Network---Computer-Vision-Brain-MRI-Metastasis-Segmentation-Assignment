@@ -1,1 +1,2 @@
 # 5C-Network---Computer-Vision-Brain-MRI-Metastasis-Segmentation-Assignment
+Welcome to the Brain MRI Metastasis Segmentation project! This project leverages advanced deep learning architectures like Nested U-Net and Attention U-Net to segment metastasis regions in brain MRI images. We use TensorFlow/Keras for model training, FastAPI for serving the model as a web service, and Streamlit for creating a simple and interactive UI.
